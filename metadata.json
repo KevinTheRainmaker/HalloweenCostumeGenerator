@@ -1,0 +1,5 @@
+{
+  "name": "Halloween Costume AI Generator",
+  "description": "Upload a photo and see yourself in various Halloween costumes! This app uses AI to transform your photo while keeping your face intact, creating a realistic image with a spooky, nighttime aesthetic.",
+  "requestFramePermissions": []
+}
